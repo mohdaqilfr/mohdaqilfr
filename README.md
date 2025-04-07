@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 I'm Aqil
 
-<!--
-**mohdaqilfr/mohdaqilfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A student at **BINUS University**  
+💻 This is my coding journey and learning space  
+🌱 Currently learning web development, data structures, and all things tech  
+📘 Sharing projects, notes, and random experiments as I grow  
+🛠️ Mostly working with JavaScript, Python, and exploring new tools  
+☕ Always up for learning something new — one line of code at a time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What you'll find here:
+
+- 💡 Personal projects and course assignments  
+- 🧪 Code experiments and side projects  
+- 📚 Notes and learning logs  
+- 🧰 Playground for frameworks, APIs, and tech I'm curious about
+
+---
+
+> “Learning to write programs stretches your mind, and helps you think better.” – Bill Gates
+
+Thanks for visiting!
+
